@@ -51,3 +51,4 @@ I am a motivated and enthusiastic B.Tech Artificial Intelligence and Data Scienc
 ### 📬 Connect With Me
 * **Email:** poojapooja48649@gmail.com[cite: 1]
 * **Phone:** +91 6281173276[cite: 1]
+* **linkedln:** www.linkedin.com/in/shankar-pooja-s-148113426
