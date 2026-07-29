@@ -24,6 +24,30 @@ I am a motivated and enthusiastic B.Tech Artificial Intelligence and Data Scienc
 
 ---
 
+### 💼 Professional Experience & Internships
+* **CodSoft:** Completed an online internship focusing on practical skill development and technical projects[cite: 1].
+* **Cognify:** Earned an internship certificate demonstrating professional readiness and technical capability[cite: 1].
+* **ISMO:** Successfully selected for the competitive ISMO internship process[cite: 1].
+
+---
+
+### 🎓 Education
+* **Bachelor of Engineering (AIDS - Artificial Intelligence and Data Science):** Rajalakshmi Institute of Technology | CGPA: 8.37 (Expected graduation: May 2028)[cite: 1]
+* **Bachelor of Commerce:** Sri Nalandha Jr Inter College | CGPA: 9.51 (2022–2024)[cite: 1]
+* **Secondary School of Education:** Sri Chaitanya School | CGPA: 9.2 (Completed June 2022)[cite: 1]
+
+---
+
+### 🎯 What I'm Looking For
+* Actively seeking **internship opportunities** to enhance my technical knowledge, apply my skills in AI and data science, and contribute effectively to organizational goals[cite: 1].
+
+---
+
+### 🌟 Let's Collaborate
+* Open to collaborating on AI/ML projects, full-stack applications, and innovative tech solutions.
+
+---
+
 ### 📬 Connect With Me
 * **Email:** poojapooja48649@gmail.com[cite: 1]
 * **Phone:** +91 6281173276[cite: 1]
